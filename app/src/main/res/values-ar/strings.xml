@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">وكيل الموبايل</string>
+    <string name="task_hint">اكتب المهمة اللي عايزني أنفذها على الموبايل</string>
+    <string name="start">ابدأ</string>
+    <string name="stop">إيقاف</string>
+    <string name="settings">الإعدادات</string>
+    <string name="enable_service">تفعيل خدمة إمكانية الوصول</string>
+    <string name="svc_on">الخدمة: شغّالة ✅</string>
+    <string name="svc_off">الخدمة: مقفولة ❌ فعّلها الأول</string>
+    <string name="save">حفظ</string>
+    <string name="saved">تم الحفظ</string>
+    <string name="preset">المزوّد (قوالب جاهزة)</string>
+    <string name="api_format">نوع الـ API</string>
+    <string name="base_url">رابط المزوّد (Base URL)</string>
+    <string name="api_key">مفتاح API</string>
+    <string name="model">اسم الموديل</string>
+    <string name="max_steps">أقصى عدد خطوات</string>
+    <string name="language">اللغة</string>
+    <string name="lang_auto">تلقائي</string>
+    <string name="lang_ar">العربية</string>
+    <string name="lang_en">English</string>
+    <string name="need_setup">ظبّط المزوّد من الإعدادات الأول</string>
+    <string name="service_desc">تسمح للوكيل برؤية الشاشة والضغط والكتابة نيابةً عنك.</string>
+</resources>
